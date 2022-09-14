@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549997362 source:/home/ldap/zj8847/Documents/Cal_quo_for/main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

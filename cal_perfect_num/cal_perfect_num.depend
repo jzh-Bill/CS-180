@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551402060 source:/home/ldap/zj8847/Documents/cal_perfect_num/main.cpp
+	<iostream>
+	<cmath>
+

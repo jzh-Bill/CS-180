@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553100996 source:/home/ldap/zj8847/Documents/file_output_input_excerise/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

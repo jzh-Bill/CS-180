@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549988573 source:/home/ldap/zj8847/Documents/calculate_quadratic_expression/main.cpp
+	<iostream>
+	<cmath>
+
